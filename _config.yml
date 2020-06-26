@@ -23,6 +23,7 @@ twitter_username: praveendath92
 github_username: praveendath92
 minimal_mistakes_skin: air
 search: true
+repository: praveendath92/praveendath92.github.io
 
 # Build settings
 markdown: kramdown
