@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Praveen Kumar Pendyala.IO
+title: Praveen Kumar Pendyala
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -24,15 +24,17 @@ github_username: praveendath92
 minimal_mistakes_skin: air
 search: true
 repository: praveendath92/praveendath92.github.io
+masthead_title: "PKP.io"
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
-permalink: /:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: /blog/page:num/
+timezone: GB
 
 include:
   - _pages
@@ -59,40 +61,49 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Praveen Pendyala"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: Praveen Pendyala
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Software Engineer with eternal curiosity for anything technology and economics."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://pkp.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/praveendath92"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/praveendath92"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/praveendath92"
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/praveendath92
+
+    - label: Linkedin
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/praveendath92/
+
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      url: https://instagram.com/praveendath92
+
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/praveendath92
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/praveendath92"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/praveendath92"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/praveendath92"
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/praveendath92
+
+    - label: Linkedin
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/praveendath92/
+
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      url: https://instagram.com/praveendath92
+
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/praveendath92
 
 defaults:
   # default for all items
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: false
@@ -113,20 +124,13 @@ defaults:
       share: true
       related: true
 
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      share: true
-
 category_archive:
   type: liquid
-  path: /categories/
+  path: /blog/categories/
+
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /blog/tags/
 
 comments:
   provider: "utterances"
