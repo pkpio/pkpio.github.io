@@ -2,11 +2,20 @@ main:
   - title: about
     url: /about/
 
-  - title: education
-    url: /education/
-
   - title: work
     url: /work/
 
   - title: blog
     url: /blog/
+
+  - title: talks
+    url: /talks/
+
+  - title: papers
+    url: /papers/
+
+  - title: awards
+    url: /awards/
+
+  - title: education
+    url: /education/
