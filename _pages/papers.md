@@ -7,4 +7,4 @@ sort_by: date
 sort_order: reverse
 ---
 
-Sample document listing for the collection `_papers`.
+This is a list of papers I co-authored and published in academic conferences and journals. 

@@ -2,7 +2,8 @@
 title: Bachelors in Electrical Engineering
 excerpt: Indian Institute of Technology Bombay, India
 ---
-Graduation: {{ page.date | date: '%B, %Y' }}
+- University: {{ page.excerpt }}
+- Graduation: {{ page.date | date: '%B, %Y' }}
 
 <figure style="width:250px" class="align-left">
   <img src="/assets/images/iit-bombay-logo.png" alt="">
