@@ -6,5 +6,4 @@ permalink: /talks/
 sort_by: date
 sort_order: reverse
 ---
-
-Sample document listing for the collection `_talks`.
+This is a list of talks I gave at various conferences / events since I started keeping a record of these.
