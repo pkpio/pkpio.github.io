@@ -10,6 +10,11 @@ search: true
 breadcrumbs: true
 repository: praveendath92/praveendath92.github.io
 masthead_title: "PKP.io"
+search_provider: google
+
+# Search settings
+google:
+  search_engine_id: "011858246901281195939:-tnabjnwv3q"
 
 # Build settings
 markdown: kramdown
