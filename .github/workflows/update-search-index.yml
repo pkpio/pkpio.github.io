@@ -1,4 +1,4 @@
-name: Build Algolia Search Index
+name: Re-build algolia search index
 
 on:
   push:

@@ -19,6 +19,13 @@ algolia:
   search_only_api_key: 1321b0e75b1870cf4d5f353adb1d0315
   powered_by: true
 
+# Analytics
+analytics:
+  provider: google
+  google:
+    tracking_id: "UA-71780005-1"
+    anonymize_ip: false
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
