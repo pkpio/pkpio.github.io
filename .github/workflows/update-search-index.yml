@@ -1,0 +1,27 @@
+name: Build Algolia Search Index
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout source code
+      uses: actions/checkout@v2
+    
+    - name: Install system dependency - ruby 
+      run: sudo apt install ruby-dev
+    
+    - name: Install system dependency - bundler
+      run: gem install bundler
+    
+    - name: Install project dependencies
+      run: bundle install
+    
+    - name: Build Algolia index
+      run: bundle exec jekyll algolia
