@@ -6,10 +6,18 @@ description: >-
 twitter_username: praveendath92
 github_username: praveendath92
 minimal_mistakes_skin: air
-search: true
 breadcrumbs: true
 repository: praveendath92/praveendath92.github.io
 masthead_title: "PKP.io"
+
+# Site wide search settings
+search: true
+search_provider: algolia
+algolia:
+  application_id: 6812OBNYDY
+  index_name: pkp.io
+  search_only_api_key: 1321b0e75b1870cf4d5f353adb1d0315
+  powered_by: true
 
 # Build settings
 markdown: kramdown
