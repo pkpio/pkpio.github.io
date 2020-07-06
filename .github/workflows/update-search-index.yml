@@ -20,6 +20,8 @@ jobs:
     
     - name: Test env variable
       run: echo $ALGOLIA_API_KEY is show?
+      env:
+        ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
     
     - name: Install system dependency - ruby 
       run: sudo apt install ruby-dev
@@ -32,3 +34,5 @@ jobs:
     
     - name: Build Algolia index
       run: bundle exec jekyll algolia
+      env:
+        ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
