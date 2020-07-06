@@ -18,7 +18,7 @@ jobs:
       run: sudo apt install ruby-dev
     
     - name: Install system dependency - bundler
-      run: gem install bundler
+      run: sudo gem install bundler
     
     - name: Install project dependencies
       run: bundle install
