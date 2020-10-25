@@ -107,6 +107,8 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_sticky: true
 
 category_archive:
   type: liquid
