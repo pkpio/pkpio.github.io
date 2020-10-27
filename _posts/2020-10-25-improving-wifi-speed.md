@@ -3,6 +3,8 @@ title: Improving WiFi speed
 categories:
   - Tech
   - Home
+header:
+  og_image: /assets/images/blog/home_wireless_network_diagram_networking_wireless.jpg
 ---
 
 Working from home has become the new normal for many. This means more streaming, video calls,  and other bandwidth intensive activities. For most of us, all this happens over WiFi and puts more strain on the available bandwidth. If you have a lot of smart devices on the same network, this only exacerbates the problem.
@@ -12,13 +14,13 @@ TL;DR
 - Use dual band WiFi - 2.4 Ghz and 5 Ghz
 - Use different network name per band
 - Keep high priority devices on 5 Ghz 
-	- Gaming consoles
-	- Work machines
-	- Your personal phone 
+    - Gaming consoles
+    - Work machines
+    - Your personal phone 
 - Keep everything else on 2 Ghz
-	- IoT sensors
-	- Smart TVs*
-	- Your flatmate's devices*
+    - IoT sensors
+    - Smart TVs*
+    - Your flatmate's devices*
 
 *Feel free to move some of these to 5 Ghz if the speeds are insufficient for your use case.
 {: .notice--primary}
@@ -79,9 +81,9 @@ You will have 2 different WiFi networks - if following the typical naming patter
 
 - 2 connected through Ethernet
 - 3 connected through 5 Ghz WiFi
- - My phone
- - Work laptop
- - Xbox
+    - My phone
+    - Work laptop
+    - Xbox
 - 17 connected through 2.4 Ghz WiFi
 
 Despite having so many devices on the 2.4 Ghz network, the speeds (revealed later) are sufficient for most day to day tasks, including streaming.
