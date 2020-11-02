@@ -27,6 +27,6 @@ Obviously not everything is noval and sometimes it can be hard to explain the pr
 - [Square just bought $50 million in bitcoin](https://edition.cnn.com/2020/10/08/business/square-bitcoin-crypto-investment/index.html)
 - [European Central Bank exploring digital Euro](https://www.ecb.europa.eu/euro/html/digitaleuro.en.html) - to be clear, it's __not__ a crypto currency but they are exploring a possibility for the underlying technical infrastructure to be decentralized like a blockchain.
 
-> I hope you enjoy reading and learning from this series as much as I'm going to enjoy writing it. 
+> I hope you enjoy reading and learning from this series as much as I enjoy writing it. 
 
 See you again on this channel soon!
