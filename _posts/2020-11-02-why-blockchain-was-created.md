@@ -18,9 +18,9 @@ Barter system
 ----
 ![barter-system](/assets/images/blog/barter-system.jpg){: .align-left} 
 
-People exchanged good and services, for example a farmer with excess produce of dairy or meat could exchange with a fisherman with surplus of fish. This was likely the first system to facilitate trade - which is always essential as no one can be self sufficient at all times. 
+People exchanged goods and services directly with each other. For example a farmer with excess produce of dairy or meat could exchange with a fisherman with surplus of fish. This was likely the first system to facilitate trade - which is always essential as no one can be self sufficient at all times. 
 
-The problem with this system was immediately apparent when there is no willing to participate on the other side of the trade - trade is bilateral. In our earlier example, if no fisherman wants to trade fish for meat or dairy, the farmer wouldn't be able to get fish even though there is value for his meat and dairy. Some of these issues could be solved by involving 3 or more parties in a trade but it gets complicated quickly - like in the board game [Catan](https://www.catan.com/game/catan).  
+The problem with this system was immediately apparent when there is no one willing to participate on the other side of the trade - trade is bilateral. In our earlier example, if no fisherman wants to trade fish for meat or dairy, the farmer wouldn't be able to get fish even though there is value for his meat and dairy. Some of these issues could be solved by involving 3 or more parties in a trade but it gets complicated quickly - like in the board game [Catan](https://www.catan.com/game/catan).  
 
 
 Commodity money
@@ -34,9 +34,9 @@ As time passed, people noticed that certain commodities such as sea shells, salt
 
 This is an improvement over the barter system as people could sell their goods and services for these commodities. And they can buy the goods and services they need using these commodities. The commodities used for trade had certain characteristics: they were widely desired and, therefore valuable. They were also durable, portable, and easily stored. While this opened up more opportunities for trade, there were still issues with the commodities such as:
 
-- Deterioration: certain commodities, like corn, can deteriorate in quality over time
-- Bulkiness: Imagine having to go shopping with a cart full of salt
-- Indivisibility: some commodities, like sea shell, can't be meaningfully sub divided 
+- _Deterioration_: certain commodities, like corn, can deteriorate in quality over time
+- _Bulkiness_: Imagine having to go shopping with a cart full of salt
+- _Indivisibility_: some commodities, like sea shell, can't be meaningfully sub divided 
 
 
 Coins
@@ -49,7 +49,7 @@ Paper money
 ----
 ![paper-money](/assets/images/blog/paper-money.jpg){: .align-center}
 
-Merchants and traders were looking for ways to do larger transactions without having to carry large amounts of metal coins so, paper money was created. Bank notes were issued and backed by storing coins of equal. Anyone holding a bank note could approach the bank and exchange for its value in coins. 
+Merchants and traders were looking for ways to do larger transactions without having to carry large amounts of metal coins so, paper money was created. Bank notes were issued and backed by storing coins of equal value. Anyone holding a bank note could approach the bank and exchange for its value in coins. 
 
 > The modern paper money such as Dollar, Euro, and Pound are no longer backed by any physical commodity or asset.
 
@@ -82,7 +82,7 @@ Fiat money gives central banks greater control over the economy because they can
 
 Just in the last century there were [13 instances of Hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation#Notable_hyperinflationary_periods) - Austria, Bolivia, Brazil, China, Germany, Greece, Hungary, Malaya, North Korea, Peru, Poland, Philippines, Soviet Union, and Venezuela. Through no fault of their own, people in these countries had seen their money erode in value as __price of commodities doubled every 14.82 hours__ (Hungary, July 1946)! All because the central banks hoped to print their way out of trouble. Hyperinflation is an extreme scenario and is typically associated with some form of War.
 
-During times of crisis - be it war, economic collapse, or pandemic such as the one we are in now, central banks issue unprecedented amounts of money in a short span to support and boost the recovery of economy. As cool (and unwise) as it would be, this newly created wealth is _not dropped from a blimp_ 
+During times of crisis - be it war, economic collapse, or pandemic such as the one we are in now, central banks issue unprecedented amounts of money in a short span to support and boost the recovery of economy. As cool (and unwise) as it would be, this newly created wealth is _not dropped from a blimp._ 
 
 {% include video id="mrvD1QpJyYU?start=0:36" provider="youtube" %}
 

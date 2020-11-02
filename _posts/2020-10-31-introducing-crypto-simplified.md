@@ -1,5 +1,5 @@
 ---
-title: Introducing Crypto Simplified
+title: Introducing Crypto Simplified - CS 0.0
 categories:
   - Crypto Simplified
   - Tech
@@ -26,6 +26,8 @@ Obviously not everything is noval and sometimes it can be hard to explain the pr
 - [PayPal allows Bitcoin and crypto spending](https://www.bbc.co.uk/news/technology-54630283)
 - [Square just bought $50 million in bitcoin](https://edition.cnn.com/2020/10/08/business/square-bitcoin-crypto-investment/index.html)
 - [European Central Bank exploring digital Euro](https://www.ecb.europa.eu/euro/html/digitaleuro.en.html) - to be clear, it's __not__ a crypto currency but they are exploring a possibility for the underlying technical infrastructure to be decentralized like a blockchain.
+
+All posts in this series will end in the format __CS - X.Y__. This is to create a logical ordering of concepts for someone who wants start from the beginning. 
 
 > I hope you enjoy reading and learning from this series as much as I enjoy writing it. 
 
