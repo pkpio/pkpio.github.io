@@ -7,6 +7,7 @@ categories:
 header:
   teaser: /assets/images/blog/crypto-simplified-header.png
   image: /assets/images/blog/crypto-simplified-header.png
+  og_image: /assets/images/blog/crypto-simplified-logo.png
 toc: false
 ---
 

@@ -7,6 +7,7 @@ categories:
 header:
   teaser: /assets/images/blog/crypto-simplified-header.png
   image: /assets/images/blog/crypto-simplified-header.png
+  og_image: /assets/images/blog/crypto-simplified-logo.png
 ---
 
 Blockchain is indubitably one of the greatest technological creations in our time. But so are many other things we created such as Internet and Artificial intelligence. It's easy to grasp the significance of Internet because we use it every day in many ways - bringing us morning weather report to evening entertainment, and everything in between. We also realize the power of AI because we experience it everyday - searching online, detecting faces in pictures, and product recommendations. We understand these already ubiquitous technologies because we can associate them to the problems they solve in our day to day life. Blockchain is a relatively young kid in the block so, in order to understand or appreciate it, we have to look at the problems it aims to solve.
