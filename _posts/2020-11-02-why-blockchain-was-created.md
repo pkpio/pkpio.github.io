@@ -113,7 +113,7 @@ Like any currency, Bitcoin has its own set of problems:
 
 - __Deflation:__ The total number of bitcoins is capped at 21 million. This will cause deflation - the value of money increasing over time. Each bitcoin could be worth more and more as the total number of Bitcoins maxes out. This system is designed to reward early adopters. Since each bitcoin could be valued higher with each passing day, people will be more inclined to save it as an asset; rather than spend it like a currency. Despite its initial intentions, this makes it more of a digital asset than a currency. Infact Bitcoin is now often referred to as Digital gold. 
 
-Not all cryptocurrencies are deflationary. Ethereum, the second largest cryptocurrency _does not have fixed supply_ - a maximum of 18,000,000 new coins are issued annually.
+Not all cryptocurrencies are deflationary. Ethereum, the second largest cryptocurrency _does not have fixed supply_ - [a maximum of 18,000,000 new coins are issued annually](https://ethereum.org/en/whitepaper/#currency-and-issuance).
 {: .notice--info}
 
 Blockchain
