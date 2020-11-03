@@ -97,7 +97,19 @@ The issues related to the handling of 2008 financial crisis was the reason why B
 
 > The Times 03/Jan/2009 Chancellor on brink of second bailout for banks. 
 
-To summarize, Bitcoin was created in the hopes of building a new form of money that is not controlled by a single central entity - such as the central banks. A system where no single person, company or even government has the capacity to manipulate the supply of money. Bitcoin runs on a fully decentralized system. News coins are issued at a defined rate and are distributed in a well defined structure.
+To summarize, Bitcoin was created in the hopes of building a new form of money that is not controlled by a single central entity - such as the central banks. A system where no single person, company or even government has the capacity to manipulate the supply of money. Bitcoin runs on a fully decentralized system. News coins are issued at a defined rate and are distributed in a well defined structure. 
+
+Like any currency, Bitcoin has its own set of problems:
+
+__Not widely accepted:__ There are not many merchants - online or offline, that accept Bitcoin as a mode of payment. This is like the classic [Chicken-and-egg](https://en.wikipedia.org/wiki/Chicken_or_the_egg) problem. This applies to any currency - digital or otherwise, in its infancy. While fiat currencies could draw upon the trust people have in their governments to enjoy wider adoption. The case for digital currencies is yet to unfold.
+
+__No valuation guarantee:__ Since there is no central authority backing Bitcoins, no one can guarantee its minimum valuation. __Bitcoin relies on Mathematical properties to earn trust__ and its __value is linked to its adoption by a growing base of users, merchants, and startups__. If a large group of merchants decide to “dump” Bitcoins and leave the system, its valuation will decrease greatly. This will immensely hurt users who have a large amount of wealth invested in Bitcoins. The decentralized nature of bitcoin is both a curse and blessing.
+
+__Volatile valuation:__ The value of bitcoin is highly volatile. This makes it harder to use it for exchaning goods and service. For example, if Alice sold a car for 1 bitcoin on 17th Dec 2017 (1 BTC = 19,166 USD) and decided to use that money to pay for a fancy new year party 2 weeks later on 31st Dec 2017 (1 BTC = 13,060 USD), the value of her car sale has eroded significantly (in real dollar terms) in just under 2 weeks!
+
+__Irreversable transactions:__ This could be seen as both an advantage and disadvantage. When a transaction is made using Bitcoins, it is irreversable. In the current banking system, if your card was stolen and someone made fradulent purchases on it, or you made a purchase and the seller didn't send the product; it is possible to reverse the transaction. All transactions with Bitcoin are irreversible so there are __no fraud protections__.
+
+__Deflation:__ Since the total number of bitcoins is capped at 21 million, it will cause deflation - the value of money increasing over time. Each bitcoin could be worth more and more as the total number of Bitcoins maxes out. This system is designed to reward early adopters. Since each bitcoin could be valued higher with each passing day, people will be more inclined to save it as an asset; rather than spend it like a currency. Despite its initial intentions, this makes it more of a digital asset than a currency. Infact Bitcoin is now often referred to as Digital gold.
 
 
 Blockchain
