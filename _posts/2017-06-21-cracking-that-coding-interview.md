@@ -3,6 +3,10 @@ title : Cracking that coding interview
 categories: 
   - Tech
   - Personal
+
+header:
+  teaser: /assets/images/blog/coding-interview.png
+  og_image: /assets/images/blog/coding-interview.png
 ---
 
 After a series of interviews, I received a full time offer from Microsoft a couple of months ago. The interviews turned out to be a fun exercise - given how worried I was about screwing up. Now I want to talk all about the "hardship" that lead up to the offer. This will be a highly opinionated post depicting what worked for *me*.

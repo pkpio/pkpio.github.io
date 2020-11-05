@@ -7,7 +7,7 @@ categories:
   - Tech
   - Blockchain
 header:
-  teaser: /assets/images/blog/crypto-simplified-header.png
+  teaser: /assets/images/blog/cover-printing-press.jpg
   image: /assets/images/blog/crypto-simplified-header.png
   og_image: /assets/images/blog/crypto-simplified-logo.png 
 ---

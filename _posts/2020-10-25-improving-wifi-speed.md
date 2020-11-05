@@ -4,7 +4,8 @@ categories:
   - Tech
   - Home
 header:
-  og_image: /assets/images/blog/home_wireless_network_diagram_networking_wireless.jpg
+  teaser: /assets/images/blog/internet-speed-5ghz.png
+  og_image: /assets/images/blog/internet-speed-5ghz.png
 ---
 
 Working from home has become the new normal for many. This means more streaming, video calls,  and other bandwidth intensive activities. For most of us, all this happens over WiFi and puts more strain on the available bandwidth. If you have a lot of smart devices on the same network, this only exacerbates the problem.
