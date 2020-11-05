@@ -1,8 +1,8 @@
 title: Praveen Kumar Pendyala
 email:
 description: >-
-  Find out more about Praveen - his interests, skills, education, work, awards, projects and 
-  his continious learning. Discover the topics he talks about in his blog.
+  Discover my interests, skills, education, work, awards, projects and continious learning. 
+  Read about my explorations in the world of Blockchain, cryptocurrencies, home automation, and manythings technology.
 twitter_username: praveendath92
 github_username: praveendath92
 minimal_mistakes_skin: air
@@ -48,7 +48,7 @@ plugins:
 author:
   name: Praveen Pendyala
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Software Engineer with eternal curiosity for anything technology and economics."
+  bio: "Software Engineer by profession. Curious about anything technology and economics."
   links:
     - label: GitHub
       icon: fab fa-fw fa-github
