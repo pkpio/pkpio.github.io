@@ -7,9 +7,9 @@ categories:
   - Tech
   - Blockchain
 header:
-  teaser: /assets/images/blog/cover-printing-press.jpg
   image: /assets/images/blog/crypto-simplified-header.png
-  og_image: /assets/images/blog/crypto-simplified-logo.png 
+  teaser: /assets/images/blog/blockchain-of-computers.png
+  og_image: /assets/images/blog/blockchain-of-computers.png 
 ---
 
 Blockchain is indubitably one of the greatest technological creations in our time. 
