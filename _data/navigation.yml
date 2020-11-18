@@ -1,10 +1,10 @@
 main:
-  
-  - title: work
-    url: /work/
 
   - title: blog
     url: /blog/
+  
+  - title: work
+    url: /work/
 
   - title: talks
     url: /talks/
