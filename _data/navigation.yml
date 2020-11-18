@@ -2,9 +2,6 @@ main:
 
   - title: blog
     url: /blog/
-  
-  - title: work
-    url: /work/
 
   - title: talks
     url: /talks/
@@ -14,6 +11,9 @@ main:
 
   - title: awards
     url: /awards/
+  
+  - title: work
+    url: /work/
 
   - title: education
     url: /education/
