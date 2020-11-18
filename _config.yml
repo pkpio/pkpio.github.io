@@ -36,6 +36,7 @@ timezone: GB
 
 include:
   - _pages
+  - .well-known
 
 plugins:
   - jekyll-paginate

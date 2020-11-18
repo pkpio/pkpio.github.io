@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pkp.io
+Token: 41c1c702f415eccc8110ad140025d50a6fad40fa36708a8ad26cb6f153f6a87d
