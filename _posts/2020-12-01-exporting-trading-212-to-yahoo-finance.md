@@ -70,6 +70,6 @@ class YahooFinanceImporter():
 
 Support
 ----
-If you found this tool helpful, show your support by:
-- Clapping and sharing this post
+If you found this tool helpful, show your support through:
+- Comments on this post
 - Starring and sharing the GitHub repo
