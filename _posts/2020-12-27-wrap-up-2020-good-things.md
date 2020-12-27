@@ -10,7 +10,8 @@ header:
 toc: true
 ---
 
-> "Certain years are so eventful they are regarded as pivotal in history, years when wars and slavery ended and deep generational fissures burst into the open — 1865, 1945 and 1968 among them. The year 2020 will certainly join this list." - New York Times.
+> Certain years are so eventful they are regarded as pivotal in history, years when wars and slavery ended and deep generational fissures burst into the open — 1865, 1945 and 1968 among them. The year 2020 will certainly join this list. 
+— New York Times.
 
 2020 has been a tough year for most of us. It's been nearly a year since I have last done the activities I enjoy so much - travel, volleyball, meeting friends and family. Rather than resenting everything I didn't get to do this year, I'm going to talk about all that has gone well. Before I go on, I would like to recognize all those who suffer from the pandemic - economically, psychologically, financially and in health. And a big thanks to the health and care workers, scientists and everyone who have been following the health recommendations and helping people in these tough times. Here's all that has gone right for me:
 
