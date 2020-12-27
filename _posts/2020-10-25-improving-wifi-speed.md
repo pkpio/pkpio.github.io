@@ -6,6 +6,8 @@ categories:
 header:
   teaser: /assets/images/blog/internet-speed-5ghz.png
   og_image: /assets/images/blog/internet-speed-5ghz.png
+
+excerpt: A faster and reliable WiFi is more important than ever. Checkout how to fix your WiFi and internet speed issues. 
 ---
 
 Working from home has become the new normal for many. This means more streaming, video calls,  and other bandwidth intensive activities. For most of us, all this happens over WiFi and puts more strain on the available bandwidth. If you have a lot of smart devices on the same network, this only exacerbates the problem.
