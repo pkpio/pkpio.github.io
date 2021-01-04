@@ -110,6 +110,7 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+      subscribe: true
 
 category_archive:
   type: liquid
