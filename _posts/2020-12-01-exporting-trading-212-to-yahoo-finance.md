@@ -9,6 +9,13 @@ header:
   og_image: /assets/images/blog/trading-212-to-csv.png
 ---
 
+Update
+-----
+Trading 212 now has the option to export CSV files so the rest of this article is not relavent anymore but this new tool could be still useful.
+
+I wrote a script that converts the CSV files from Trading 212 to Yahoo Finance format so you can import your trades there and get better analysis. See [Trading212 to Yahoo Finance](https://github.com/praveendath92/trading212-csv). I can extend this to other popular portfolio platforms that have import option. Just open an issue and let me know.
+{: .notice--success}
+
 
 Trading212 has been amazing since I started using it in January 2020. However, despite many requests, linked below, from the community to support exporting of transactions, there is no solution from the team, yet.
 
