@@ -3,11 +3,11 @@ email:
 description: >-
   Discover my interests, skills, education, work, awards, projects and continious learning. 
   Read about my explorations in the world of Blockchain, cryptocurrencies, home automation, and manythings technology.
-twitter_username: praveendath92
-github_username: praveendath92
+twitter_username: pkp_io
+github_username: pkpio
 minimal_mistakes_skin: air
 breadcrumbs: true
-repository: praveendath92/praveendath92.github.io
+repository: pkpio/pkpio.github.io
 masthead_title: "PKP.io"
 
 # Site wide search settings
@@ -53,37 +53,37 @@ author:
   links:
     - label: GitHub
       icon: fab fa-fw fa-github
-      url: https://github.com/praveendath92
+      url: https://github.com/pkpio
 
     - label: Linkedin
       icon: fab fa-fw fa-linkedin
-      url: https://www.linkedin.com/in/praveendath92/
+      url: https://www.linkedin.com/in/pkpio/
 
     - label: Instagram
       icon: fab fa-fw fa-instagram
-      url: https://instagram.com/praveendath92
+      url: https://instagram.com/pkpio
 
     - label: Twitter
       icon: fab fa-fw fa-twitter-square
-      url: https://twitter.com/praveendath92
+      url: https://twitter.com/pkp_io
 
 footer:
   links:
     - label: GitHub
       icon: fab fa-fw fa-github
-      url: https://github.com/praveendath92
+      url: https://github.com/pkpio
 
     - label: Linkedin
       icon: fab fa-fw fa-linkedin
-      url: https://www.linkedin.com/in/praveendath92/
+      url: https://www.linkedin.com/in/pkpio/
 
     - label: Instagram
       icon: fab fa-fw fa-instagram
-      url: https://instagram.com/praveendath92
+      url: https://instagram.com/pkpio
 
     - label: Twitter
       icon: fab fa-fw fa-twitter-square
-      url: https://twitter.com/praveendath92
+      url: https://twitter.com/pkp_io
 
 defaults:
   # default for all items
