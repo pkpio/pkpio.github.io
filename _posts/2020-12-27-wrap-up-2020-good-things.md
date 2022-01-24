@@ -1,5 +1,5 @@
 ---
-title: Good things that happened in 2020 - Wrap up 
+title: Good things that happened in 2020 - Wrap up
 categories:
   - Home
   - Tech
@@ -7,13 +7,15 @@ categories:
 header:
   teaser: /assets/images/blog/2020-wrap-up.gif
   og_image: /assets/images/blog/2020-wrap-up.png
-
-excerpt: 2020 is a year dominated by uncertainty, loss and suffering. A retrospective of good things could help us get through these challenging times. 
+excerpt: >-
+  2020 is a year dominated by uncertainty, loss and suffering. A retrospective
+  of good things could help us get through these challenging times.
+published: true
 ---
 
 > "Certain years are so eventful they are regarded as pivotal in history, years when wars and slavery ended and deep generational fissures burst into the open — 1865, 1945 and 1968 among them. The year 2020 will certainly join this list." — New York Times.
 
-2020 is a year dominated by uncertainty, loss and suffering. A retrospective of good things could help us get through these challenging times. In this post, I am going to look past all that didn't go well and share some personal positive moments from this year. I hope that this encourages more people to do that same to keep ourselves sane in this otherwise chaotic year. Here we go:
+2020 is a year dominated by uncertainty, loss and suffering. A retrospective of good things could help us get through these challenging times. In this post, I am going to look past all that didn't go well and share some personal positive moments from this year. I hope that this encourages more people to do that same to keep ourselves sane in this otherwise chaotic year. Here we go: 
 
 
 New Home
